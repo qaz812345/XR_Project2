@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.2021idvrmultiuservrdevelopment.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\user\\Downloads\\XR_Project2_0506v1\\XR_Project2_0506v1\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "2021 IDVR Multi-User VR Development [Testing]"
+        }
+      }
+    }
+  ]
+}
